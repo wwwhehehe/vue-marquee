@@ -1,8 +1,8 @@
 {
-  "name": "vue-slider2",
-  "version": "0.0.6",
-  "description": "a vue slider component",
-  "main": "dist/vue-slider.js",
+  "name": "vue-marquee2",
+  "version": "0.0.1",
+  "description": "a vue marquee component",
+  "main": "dist/vue-marquee.js",
   "scripts": {
     "build": "webpack --config ./build/webpack.prod.conf.js",
     "test": "webpack --config ./build/webpack.test.conf.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ygtzz/vue-slider.git"
+    "url": "git+https://github.com/ygtzz/vue-marquee.git"
   },
   "keywords": [
     "vue",
@@ -19,9 +19,9 @@
   "author": "ygtzz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ygtzz/vue-slider/issues"
+    "url": "https://github.com/ygtzz/vue-marquee/issues"
   },
-  "homepage": "https://github.com/ygtzz/vue-slider#readme",
+  "homepage": "https://github.com/ygtzz/vue-marquee#readme",
   "dependencies": {
     "vue": "2.4.4"
   },
